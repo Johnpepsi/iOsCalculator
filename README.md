@@ -23,21 +23,23 @@ Download and install the Calculator app from the App Store on your iOS device.
 2.2 Launching the App
 Tap the Calculator app icon on your home screen to open the application.
 3. Basic Operations
+
 3.1 Addition
 To add numbers, simply enter them using the numeric buttons.
 Press the + button to perform addition.
 Example: To calculate 5 + 3, enter "5", then press "+", and finally "3" followed by the "=" button.
+
 3.2 Subtraction
 Use the - button to perform subtraction.
 Example: To calculate 7 - 2, enter "7", then press "-", and finally "2" followed by "=".
+
 3.3 Multiplication
 For multiplication, press the × button.
 Example: To calculate 4 × 6, enter "4", then press "×", and finally "6" followed by "=".
+
 3.4 Division
 Use the ÷ button to perform division.
 Example: To calculate 9 ÷ 3, enter "9", then press "÷", and finally "3" followed by "=".
 
 Adjust the decimal precision settings in the app's settings menu to control the number of decimal places displayed.
 7. Troubleshooting
-If you encounter any issues or errors while using the Calculator app, try restarting the app or your device.
-Ensure you have the latest version of the app installed.
