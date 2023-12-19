@@ -1,8 +1,5 @@
 # iOsCalculator
 
-Creating documentation for a calculator application using Swift can help users understand how to use your app effectively. Here's an example of documentation for a simple calculator app:
-![image](https://github.com/Johnpepsi/iOsCalculator/assets/112512965/3a00fc39-d06c-464f-918d-e1761da3098f)
-
 Calculator Documentation
 Table of Contents
 Introduction
@@ -13,7 +10,10 @@ Memory Functions
 Settings
 Troubleshooting
 Feedback and Support
-1. Introduction
+
+![image](https://github.com/Johnpepsi/iOsCalculator/assets/112512965/3a00fc39-d06c-464f-918d-e1761da3098f)
+
+## Introduction
 Welcome to the Calculator app! This documentation will guide you through the features and functionalities of our calculator application, designed to make your calculations easy and efficient.
 
 # Getting Started
