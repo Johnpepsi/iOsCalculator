@@ -17,27 +17,27 @@ Feedback and Support
 Welcome to the Calculator app! This documentation will guide you through the features and functionalities of my own created calculator application, designed to make your calculations easy and efficient.
 
 # Getting Started
-2.1 Installation
+1. Installation
 Download and install the Calculator app from the GitHub on your OS MAC device.
 
-2.2 Launching the App
+2. Launching the App
 Tap the Calculator app icon on your home screen to open the application.
 3. Basic Operations
 
-3.1 Addition
+Addition
 To add numbers, simply enter them using the numeric buttons.
 Press the + button to perform addition.
 Example: To calculate 5 + 3, enter "5", then press "+", and finally "3" followed by the "=" button.
 
-3.2 Subtraction
+Subtraction
 Use the - button to perform subtraction.
 Example: To calculate 7 - 2, enter "7", then press "-", and finally "2" followed by "=".
 
-3.3 Multiplication
+Multiplication
 For multiplication, press the × button.
 Example: To calculate 4 × 6, enter "4", then press "×", and finally "6" followed by "=".
 
-3.4 Division
+Division
 Use the ÷ button to perform division.
 Example: To calculate 9 ÷ 3, enter "9", then press "÷", and finally "3" followed by "=".
 
